@@ -84,7 +84,7 @@ nav {
   justify-content: center;
 }
 .dev-img {
-  width: 60%;
+  max-width: 20rem;
   border-radius: 2rem;
   box-shadow: 0.4rem 0.4rem #e1e5f2;
 }
@@ -184,7 +184,7 @@ footer {
     top: 0;
   }
   .dev-img {
-    width: 40%;
+    max-width: 40%;
   }
   .hero-about {
     width: 50%;
