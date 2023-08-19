@@ -76,8 +76,8 @@ nav {
 
 .img-container {
   position: relative;
-  top: -2rem;
   height: 80vh;
+  top: -2rem;
   flex-direction: column;
   display: flex;
   top: -5vh;
@@ -131,13 +131,13 @@ nav {
   cursor: pointer;
   text-decoration: none;
   margin: 0 0.5rem;
-  padding: 2rem;
+  padding: 1rem;
 
   font-family: "Capriola", cursive;
 }
 .mobile-social-links a img {
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
 }
 .social-links a img {
   width: 1.5rem;
