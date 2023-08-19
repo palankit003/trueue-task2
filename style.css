@@ -76,6 +76,7 @@ nav {
 
 .img-container {
   position: relative;
+  top: -2rem;
   height: 80vh;
   flex-direction: column;
   display: flex;
